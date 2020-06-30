@@ -9,10 +9,10 @@ Wine Pal is the best way to manage and track your wine collection in one single,
     touch .env
 3. Add your local DB credentials to the .env file, like so:
     ```
-DB_HOST=localhost
-DB_USER=root
-DB_PASS=password
-NODE_ENV=development
+    DB_HOST=localhost
+    DB_USER=root
+    DB_PASS=password
+    NODE_ENV=development
 
 ## Technologies
 
